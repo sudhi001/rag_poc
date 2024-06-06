@@ -1,0 +1,7 @@
+fastapi
+pydantic
+transformers
+objectbox
+numpy
+uvicorn
+urllib3<2.0
